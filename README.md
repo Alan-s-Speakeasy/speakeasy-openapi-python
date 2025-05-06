@@ -1,6 +1,6 @@
 # Speakeasy's python bindings.
 
-** This repository is only meant to be used a requirement of [the Speakeasy Python Client](https://github.com/Alan-s-Speakeasy/Speakeasy-Python-Client-Library)**
+**This repository is only meant to be used a requirement of [the Speakeasy Python Client](https://github.com/Alan-s-Speakeasy/Speakeasy-Python-Client-Library).**
 
 Full API for Alan's Speakeasy, Version 0.1
 
